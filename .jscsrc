@@ -1,0 +1,8 @@
+{
+  "preset": "google",
+  "fileExtensions": [ ".js", "jscs" ],
+
+  "requireParenthesesAroundIIFE": true,
+  "maximumLineLength": 120,
+  "validateIndentation": "\t"
+}
